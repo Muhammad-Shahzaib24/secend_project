@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    height: 80px;
+}
+.container{
+    margin-top: 70px;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    width: 50%;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);  
+    background-color: blueviolet;
+    width: 60%;
+    height: 650px;
+
+}
+input{
+    border: 1px solid black;
+}
+.A{
+    display: flex;
+    padding: 5px;
+}
+.A h4{
+    padding-left: 139px;
+}
+.A input{
+    margin-left: 57px;
+}
+.A p{
+    margin-left: 10px;
+}
+.B{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+
+}
+.B h4{
+    padding: 0px 35px;
+    margin-left: 103px;
+}
+.B select{
+    margin: 0px 1px;
+    border: 1px solid black;
+}
+.c{
+    display: flex;
+    padding: 5px;
+}
+.c h4{
+    padding-left: 139px;
+}
+.c input{
+    margin-left: 66px;
+    border: 1px solid black;
+}
+.d{
+    display: flex;
+    padding: 5px;
+}
+.d h4{
+    padding-left: 139px;
+}
+.d input{
+    margin-left: 21px;
+}
+.d p{
+    margin-left: 10px;
+}
+.e{
+    display: flex;
+    padding: 5px;
+}
+.e h4{
+    padding-left: 139px;
+}
+.e .labele{
+    margin-left: 80px;
+}
+.e label{
+    padding: 5px;
+}
+.f{
+    display: flex;
+    padding: 5px;
+}
+.f h4{
+    padding-left: 139px;
+}
+.f textarea{
+    margin-left: 75px;
+    border: 1px solid black;
+    height: 100px;
+}
+.g{
+    display: flex;
+    padding: 5px;
+}
+.g h4{
+    padding-left: 139px;
+}
+.g input{
+    margin-left: 100px;
+}
+.g p{
+    margin-left: 10px;
+}
+.h{
+    display: flex;
+    padding: 5px;
+}
+.h h4{
+    padding-left: 139px;
+}
+.h input{
+    margin-left: 67px;
+}
+.h p{
+    margin-left: 10px;
+}
+.i{
+    display: flex;
+    padding: 5px;
+}
+.i h4{
+    padding-left: 139px;;
+}
+.i input{
+    margin-left: 95px;
+}
+.i p{
+    margin-left:10px;
+}
+.j{
+    display: flex;
+    padding: 5px;
+}
+.j h4{
+    padding-left: 139px;
+}
+.j input{
+    margin-left: 72px;
+}
+.k{
+    display: flex;
+    padding: 5px;
+}
+.k h4{
+    padding-left: 140px;
+}
+.k .hobi{
+    display: flex;
+    margin-left: 65px;
+}
+.hobi p {
+    padding: 0px 10px;
+}
+.l{
+    display: flex;
+    padding: 5px;
+}
+.l h4{
+    padding-left: 139px;
+}
+.l .quali{
+    
+    margin-left: 28px;
+    display: flex;
+    
+}
+.quali h5{
+    padding:0px 15px;
+}
+.box1{
+    text-align: center;
+    margin: 3px 0px;
+    padding: 5px;
+}
+.box1 div{
+    margin: 3px 0px;
+}
+.box2{
+    text-align: center;
+    padding: 5px;
+}
+.box2 input{
+    margin: 3px 0px;
+}
+.box3{
+    text-align: center;
+    padding: 5px;
+}
+.box3 input{
+    margin: 3px 0px;
+}
+.box4{
+    text-align: center;
+    padding: 5px;
+}
+.box4 input{
+    margin: 3px 0px;
+}
+.m{
+    display: flex;
+    padding: 5px;
+    align-items: center;
+}
+.m h4{
+    padding-left: 139px;
+}
+.m .labe{
+    margin-left: 60px;
+}
+.n{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+.n input{
+    padding: 3px;
+    margin:5px;
+}
